@@ -3,3 +3,5 @@ y = max(5, 10, 25)
 
 print(x)
 print(y)
+
+print("Hello world")
